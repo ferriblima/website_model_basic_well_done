@@ -9,6 +9,12 @@ An institutional webpage built with WordPress and exported as a single HTML file
 Below is a full-page screenshot:
 ![Full-page](aux/Users_fernandolima_Dev_basic_well_done_index.png)
 
+## Getting Started
+
+### Installation
+
+1. Open the file directly in your browser. Example: file:///folder/to/the/file/index.html
+
 ## License
 
 Distributed under the **Unlicense License**. Free use.
@@ -17,4 +23,3 @@ Distributed under the **Unlicense License**. Free use.
 
 **Fernando Lima**  
 [LinkedIn](https://www.linkedin.com/in/fernandoribeirolima/) - ferriblima@gmail.com  
-
