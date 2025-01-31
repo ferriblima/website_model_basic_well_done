@@ -7,7 +7,7 @@ An institutional webpage built with WordPress and exported as a single HTML file
 ### Preview
 
 Below is a full-page screenshot:
-![Full-page](aux/Users_fernandolima_Dev_basic_well_done_index.png)
+![Full-page](images/Users_fernandolima_Dev_basic_well_done_index.png)
 
 ## Getting Started
 
